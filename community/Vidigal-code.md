@@ -229,7 +229,6 @@
 <a href="https://laravel.com" target="_blank"><img align="center" alt="Vidigal-Laravel" height="50" width="50" src="https://laravel.com/img/favicon/apple-touch-icon.png"></a>
 <a href="https://spring.io" target="_blank"><img align="center" alt="Vidigal-Spring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
 <a href="https://nextjs.org" target="_blank"><img align="center" alt="Vidigal-NextJS" height="50" width="50" src="https://nextjs.org/favicon.ico"></a>
-<a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vidigal-Vite" height="50" width="50" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://www.slimframework.com/" target="_blank"><img align="center" alt="Vidigal-Slim" height="50" width="50" src="https://www.slimframework.com/assets/images/favicon.png"></a>
 <a href="https://nestjs.com/" target="_blank"><img align="center" alt="Vidigal-NestJS" height="50" width="50" src="https://nestjs.com/favicon-32x32.42b683bd.png"></a>
 
@@ -282,9 +281,9 @@
 
 ##   
 
-<div align="center">
+<!-- <div align="center">
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=2aa889&size=25&center=true&vCenter=true&width=1000&lines=Number+of+visitors"/>
-</div>
+</div> -->
 
 
 
@@ -292,7 +291,7 @@
 
 
   <div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> 
+<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vidigal-code}/count.svg" /></p> -->
 <br></div>
 
 
